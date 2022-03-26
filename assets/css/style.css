@@ -1,0 +1,42 @@
+/* Component */
+@import url("utilities/text.css");
+@import url("utilities/color.css");
+@import url("utilities/icon.css");
+@import url("utilities/shadow.css");
+@import url("utilities/border.css");
+
+@import url("components/navbar.css");
+@import url("components/button.css");
+@import url("components/hero.css");
+@import url("components/form.css");
+@import url("components/card.css");
+@import url("components/banner.css");
+@import url("components/pagination.css");
+@import url("components/breadcrumb.css");
+@import url("components/accordion.css");
+@import url("components/offcanvas.css");
+
+@import url("layouts/index/main.css");
+@import url("layouts/index/aside.css");
+@import url("layouts/index/footer.css");
+
+@import url("layouts/article/main.css");
+@import url("layouts/article/aside.css");
+@import url("layouts/article/footer.css");
+
+/* Global Styling */
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,600;1,700;1,800;1,900&display=swap");
+
+body {
+  font-family: "Nunito Sans", "sans-serif" !important;
+  font-style: normal !important;
+  scroll-behavior: smooth;
+}
+
+.dropdown-toggle::after {
+  display: none !important;
+}
+
+.fw-600 {
+  font-weight: 600 !important;
+}

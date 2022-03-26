@@ -1,0 +1,30 @@
+.nh-offcanvas-header {
+  padding: 2.25rem 1.875rem 0.75rem !important;
+}
+
+.nh-offcanvas-header-title > * {
+  margin-right: 0.75rem;
+}
+
+.nh-offcanvas-header-title > *:last-child {
+  margin-right: 0 !important;
+}
+
+.nh-offcanvas-body {
+  padding: 1.5rem 1.875rem !important;
+}
+
+.nh-comment-profile,
+.nh-comment-content {
+  margin-bottom: 0.75rem;
+}
+
+.nh-comment-profile > .nh-comment-img {
+  margin-right: 0.75rem;
+}
+
+.nh-comment-reply {
+  margin-left: 0.75rem;
+  padding-right: 1.875rem;
+  border-left: 2px solid #007aff;
+}

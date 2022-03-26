@@ -1,0 +1,40 @@
+.nh-list-article-writer > img {
+  margin-right: 0.75rem;
+}
+
+.nh-list-article-description > li:first-child,
+.nh-card-article-description > li:first-child {
+  list-style-type: none;
+}
+
+.nh-list-article-description > li,
+.nh-card-article-description > li {
+  margin-right: 1.75rem;
+}
+
+.nh-list-article-description > li:last-child,
+.nh-card-article-description > li:last-child {
+  margin-right: 0 !important;
+}
+
+.nh-list-article-description > li::marker,
+.nh-card-article-description > li::marker {
+  color: #29384e;
+}
+
+.nh-card-article-description {
+  margin-top: 0.75rem;
+}
+
+.nh-list-article-category,
+.nh-card-article-category {
+  padding: 0.125rem 0;
+}
+
+.nh-card-article {
+  margin-bottom: 3.5rem;
+}
+
+.nh-card-article > .card-body {
+  padding-top: 0.75rem;
+}

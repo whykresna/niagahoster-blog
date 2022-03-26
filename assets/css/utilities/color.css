@@ -1,0 +1,195 @@
+.nh-bg-primary {
+  background: #007aff;
+}
+
+.nh-bg-primary-dark {
+  background: #0057b2;
+}
+
+.nh-bg-primary-light {
+  background: #e0efff;
+}
+
+.nh-bg-secondary {
+  background: #ff9800;
+}
+
+.nh-bg-secondary-1 {
+  background: #546071;
+}
+
+.nh-bg-secondary-dark {
+  background: #c77700;
+}
+
+.nh-bg-secondary-light {
+  background: #ffe082;
+}
+
+.nh-bg-error {
+  background: #f43636;
+}
+
+.nh-bg-error-dark {
+  background: #a83232;
+}
+
+.nh-bg-error-light {
+  background: #fbb2b2;
+}
+
+.nh-bg-success {
+  background: #00bfa6;
+}
+
+.nh-bg-success-dark {
+  background: #00897b;
+}
+
+.nh-bg-success-light {
+  background: #adebe3;
+}
+
+.nh-bg-warning {
+  background: #ffc721;
+}
+
+.nh-bg-warning-dark {
+  background: #ffb547;
+}
+
+.nh-bg-warning-light {
+  background: #ffedb8;
+}
+
+.nh-text-orange {
+  color: #ff9800 !important;
+}
+
+.nh-text-blue-hoster {
+  color: #007aff !important;
+}
+
+.nh-text-blue-light {
+  color: #e0efff !important;
+}
+
+.nh-text-primary {
+  color: #29384e !important;
+}
+
+.nh-text-secondary-1 {
+  color: #546071 !important;
+}
+
+.nh-text-secondary-2 {
+  color: #7f8895 !important;
+}
+
+.nh-text-disabled {
+  color: #a9afb8 !important;
+}
+
+.nh-bg-black {
+  background: #121212;
+}
+
+.nh-bg-blue-softer {
+  background: #f5faff;
+}
+
+.nh-bg-blue-dark {
+  background: #22273c;
+}
+
+.nh-btn-primary {
+  background: #ff9800 !important;
+}
+
+.nh-btn-primary:hover {
+  background: #ed8e01 !important;
+}
+
+.nh-btn-primary:active {
+  background: #dd8400 !important;
+}
+
+.nh-btn-outline-primary {
+  background: #ffffff !important;
+  color: #ff9800 !important;
+}
+
+.nh-btn-outline-primary:hover {
+  background: #ff9800 !important;
+  color: #ffffff !important;
+}
+
+.nh-btn-outline-primary:active {
+  background: #dd8400 !important;
+  color: #ffffff !important;
+}
+
+.nh-btn-neutral {
+  background: #ffffff !important;
+}
+
+.nh-btn-neutral:hover {
+  background: #fff5e6 !important;
+}
+
+.nh-btn-neutral:active {
+  background: #ffeacc !important;
+}
+
+.nh-btn-destructive {
+  background: #f43636 !important;
+}
+
+.nh-btn-destructive:hover {
+  background: #e13030 !important;
+}
+
+.nh-btn-destructive:active {
+  background: #c92d2d !important;
+}
+
+.nh-btn-success {
+  background: #00bfa6 !important;
+}
+
+.nh-btn-success:hover {
+  background: #00ad96 !important;
+}
+
+.nh-btn-success:active {
+  background: #019b86 !important;
+}
+
+.nh-backdrop {
+  background: #808080;
+}
+
+.nh-bg-blue-bright {
+  background: #2199fa;
+}
+
+.nh-bg-blue-gradient {
+  background: linear-gradient(
+    249.77deg,
+    #0094ff -1.99%,
+    #007dff 43.52%,
+    #026ce8 95.86%
+  );
+}
+
+.nh-bg-blue-soft {
+  background: #94ccf7;
+}
+
+.nh-bg-pink-soft {
+  background: #fd8ca9;
+}
+
+.nh-bg-grey-soft {
+  background: #f3f4f6;
+}

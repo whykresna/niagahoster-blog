@@ -1,0 +1,22 @@
+.nh-main {
+  padding: 5rem 0 7.5rem;
+}
+
+.nh-section-article#newest-article {
+  margin-bottom: 4rem;
+}
+
+.nh-section-heading,
+.nh-section-article > .nh-card-article:last-child {
+  margin-bottom: 2.25rem;
+}
+
+.nh-section-article#popular-article,
+.nh-section-banner {
+  margin-bottom: 5rem;
+}
+
+.nh-blog-main {
+  margin-top: 3.375rem !important;
+  margin-bottom: 5rem;
+}

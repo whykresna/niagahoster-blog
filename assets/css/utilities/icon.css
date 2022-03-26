@@ -1,0 +1,17 @@
+.nh-icon-wrapper {
+  margin: 0 1.125rem 1.125rem 0;
+}
+
+.nh-icon-wrapper:last-child {
+  margin-right: 0;
+}
+
+.nh-icon-circle {
+  width: 1.5rem;
+  height: 1.5rem;
+  padding: 0.625rem;
+}
+
+.nh-icon-footer {
+  padding: 0.75rem;
+}

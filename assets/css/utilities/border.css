@@ -1,0 +1,39 @@
+.nh-border {
+  border: 1px solid #c4c4c4 !important;
+}
+
+.nh-border-accordion {
+  border: 1px solid rgba(191, 197, 204, 1) !important;
+}
+
+.nh-border-shade-80 {
+  border: 1px solid rgba(18, 18, 18, 0.8) !important;
+}
+
+.nh-border-shade-64 {
+  border: 1px solid rgba(18, 18, 18, 0.64) !important;
+}
+
+.nh-border-shade-32 {
+  border: 1px solid rgba(18, 18, 18, 0.32) !important;
+}
+
+.nh-border-shade-18 {
+  border: 1px solid rgba(18, 18, 18, 0.18) !important;
+}
+
+.nh-border-shade-16 {
+  border: 1px solid rgba(0, 24, 51, 0.16) !important;
+}
+
+.nh-border-shade-12 {
+  border: 1px solid rgba(18, 18, 18, 0.12) !important;
+}
+
+.nh-border-orange {
+  border: 1px solid rgba(255, 152, 0, 1) !important;
+}
+
+.nh-divider {
+  border-top: 1px solid #d9dde3 !important;
+}

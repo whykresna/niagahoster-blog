@@ -1,0 +1,10 @@
+.nh-breadcrumb {
+  margin-bottom: 2.25rem !important;
+}
+
+.breadcrumb-item + .breadcrumb-item::before {
+  font-family: "FontAwesome";
+  font-size: 0.625rem !important;
+  color: #29384e !important;
+  content: "\f105" !important;
+}

@@ -1,0 +1,35 @@
+.nh-input {
+  padding: 0.75rem 2rem !important;
+}
+
+.nh-sidebar-input {
+  padding: 0.75rem 1.125rem !important;
+  margin-bottom: 2.25rem;
+}
+
+.nh-footer-input {
+  min-width: 21.875rem;
+  padding: 0.75rem 1.5rem !important;
+  margin-right: 0.75rem;
+}
+
+.nh-input::placeholder,
+.nh-sidebar-input::placeholder,
+.nh-footer-input::placeholder {
+  font-family: "Nunito Sans", "FontAwesome", "sans-serif" !important;
+  color: #a9afb8 !important;
+}
+
+.nh-textarea-wrapper {
+  padding: 0.75rem 1.875rem 0;
+}
+
+.nh-textarea-wrapper > textarea {
+  padding: 0.875rem;
+  border-radius: 0.875rem;
+  resize: none;
+}
+
+.nh-textarea-wrapper > textarea::placeholder {
+  color: #a9afb8;
+}

@@ -1,0 +1,23 @@
+.nh-pagination > .page-item {
+  margin: 0.5625rem;
+}
+
+.nh-pagination > .page-item > .page-link {
+  padding: 0.9375rem 1.375rem;
+  border-radius: 0.5rem !important;
+}
+
+.nh-pagination > .page-item:last-child > .page-link {
+  padding: 0.9375rem 1.0625rem;
+}
+
+.nh-pagination > .page-item > .page-link:hover,
+.nh-pagination > .page-item > .page-link:active,
+.nh-pagination > .page-item > .page-link.active {
+  background: #007aff;
+  color: #ffffff !important;
+}
+
+.nh-pagination > .page-item.disabled > .page-link {
+  color: #d9dde3 !important;
+}

@@ -1,0 +1,30 @@
+.nh-section-cta {
+  padding: 5.75rem 0;
+  background-blend-mode: overlay;
+  background-image: url("../../../img/background.svg"),
+    linear-gradient(249.77deg, #0094ff -1.99%, #007dff 43.52%, #026ce8 95.86%);
+  background-position: 50%;
+  background-repeat: no-repeat, repeat;
+}
+
+.nh-section-cta p {
+  margin: 1.75rem 0 2.625rem;
+}
+
+.nh-section-footer {
+  padding: 6rem 0 2.625rem;
+}
+
+.nh-footer-menu,
+.nh-footer-logo,
+.nh-footer-text {
+  margin-bottom: 2rem;
+}
+
+.nh-footer-menu > ul {
+  list-style-type: none;
+}
+
+.nh-footer-menu > ul > li > a:hover {
+  color: #ffffff;
+}

@@ -1,0 +1,19 @@
+.nh-article > p {
+  margin-bottom: 2rem;
+}
+
+.nh-article-heading {
+  margin: 2.25rem 0 !important;
+}
+
+.nh-article-social {
+  list-style-type: none;
+}
+
+.nh-article-social > li > a > span {
+  margin-left: 0.75rem;
+}
+
+.nh-article-thumbnail {
+  margin: 2.25rem 0;
+}

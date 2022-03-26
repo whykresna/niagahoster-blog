@@ -1,0 +1,166 @@
+h1,
+.h1 {
+  font-size: 56px !important;
+  line-height: 64px !important;
+}
+
+h2,
+.h2 {
+  font-size: 40px !important;
+  line-height: 56px !important;
+  letter-spacing: -0.02em !important;
+}
+
+h3,
+.h3 {
+  font-size: 32px !important;
+  line-height: 42px !important;
+}
+
+h4,
+.h4 {
+  font-size: 28px !important;
+  line-height: 36px !important;
+}
+
+h5,
+.h5 {
+  font-size: 24px !important;
+  line-height: 32px !important;
+  letter-spacing: 0.0025em !important;
+}
+
+h6,
+.h6 {
+  font-size: 20px !important;
+  line-height: 26px !important;
+  letter-spacing: 0.005em !important;
+}
+
+.h7 {
+  font-size: 18px !important;
+  line-height: 27px !important;
+  letter-spacing: 0.02em !important;
+}
+
+.h8 {
+  font-size: 16px !important;
+  line-height: 24px !important;
+  letter-spacing: 0.005em !important;
+}
+
+.text-subheading {
+  line-height: 24px;
+  letter-spacing: 0.005em;
+}
+
+.text-subheading.subheading-1 {
+  font-size: 24px;
+}
+
+.text-subheading.subheading-2 {
+  font-size: 20px;
+}
+
+.text-subheading.subheading-3 {
+  font-size: 18px;
+}
+
+.text-subheading.subheading-4 {
+  font-size: 16px;
+}
+
+.text-subheading.subheading-5 {
+  font-size: 14px;
+}
+
+.text-subheading.subheading-6 {
+  font-size: 12px;
+}
+
+.font-body {
+  letter-spacing: 0.005em;
+}
+
+.font-body.body-1 {
+  font-size: 20px;
+  line-height: 34px;
+}
+
+.font-body.body-2 {
+  font-size: 18px;
+  line-height: 32px;
+}
+
+.font-body.body-3 {
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.font-body.body-4 {
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.font-body.body-5 {
+  font-size: 12px;
+  line-height: 24px;
+}
+
+.font-body.body-3.alt,
+.font-body.body-4.alt {
+  letter-spacing: 0.02em !important;
+}
+
+.font-body.body-5.alt {
+  letter-spacing: 0 !important;
+  line-height: 20px !important;
+}
+
+.text-button {
+  letter-spacing: 0.02em;
+}
+
+.text-button.button-1 {
+  font-size: 20px;
+  line-height: 32px;
+}
+
+.text-button.button-2 {
+  font-size: 18px;
+  line-height: 32px;
+}
+
+.text-button.button-3,
+.text-button.button-4 {
+  font-size: 16px !important;
+  line-height: 24px !important;
+}
+
+.text-button.button-4 {
+  letter-spacing: 0 !important;
+}
+
+.text-button.button-5 {
+  font-size: 14px;
+  line-height: 16px;
+}
+
+.caption {
+  letter-spacing: 0.02em;
+  line-height: 16px;
+}
+
+.caption.caption-1 {
+  font-size: 14px;
+}
+
+.caption.caption-2 {
+  font-size: 12px;
+}
+
+.overline {
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.04em;
+}
